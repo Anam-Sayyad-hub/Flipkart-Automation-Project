@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-27T11:32:58 IST" name="Default suite" finished-at="2025-06-27T11:33:30 IST" duration-ms="31989">
+    <groups>
+    </groups>
+    <test started-at="2025-06-27T11:32:58 IST" name="Default test" finished-at="2025-06-27T11:33:30 IST" duration-ms="31989">
+      <class name="tests.FlipkartTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.FlipkartTest@6a2f6f80]" started-at="2025-06-27T11:32:58 IST" name="setup" finished-at="2025-06-27T11:33:01 IST" duration-ms="3321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="flipkartAddToCartTest()[pri:0, instance:tests.FlipkartTest@6a2f6f80]" started-at="2025-06-27T11:33:01 IST" name="flipkartAddToCartTest" finished-at="2025-06-27T11:33:30 IST" duration-ms="28233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartAddToCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.FlipkartTest@6a2f6f80]" started-at="2025-06-27T11:33:30 IST" name="tearDown" finished-at="2025-06-27T11:33:30 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.FlipkartTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
